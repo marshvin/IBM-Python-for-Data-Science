@@ -8,7 +8,7 @@ IBM course for python for Data Science
 <li>Expressions and Variables</li>
 <li>String Operations</li>
 </ul>
-<br>
+
 <h4>Module 2 - Python Data Structures </h4>
 <ul>
 <li>Lists and Tuples</li>
