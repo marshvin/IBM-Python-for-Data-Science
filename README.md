@@ -15,3 +15,11 @@ IBM course for python for Data Science
 <li>Sets</li>
 <li>Dictionaries </li>
 </ul>
+<h4>Module 3 -Python Programming Fundamentals  </h4>
+<h5>Learning Objectives</h5>
+<ul>
+<li>Conditions and Branching</li>
+<li>Loops</li>
+<li>Functions </li>
+<li>Objects and Classes</li>
+</ul>
