@@ -10,6 +10,7 @@ IBM course for python for Data Science
 </ul>
 
 <h4>Module 2 - Python Data Structures </h4>
+<h5>Learning Objectives</h5>
 <ul>
 <li>Lists and Tuples</li>
 <li>Sets</li>
