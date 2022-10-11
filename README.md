@@ -24,3 +24,11 @@ IBM course for python for Data Science
 <li>Functions </li>
 <li>Objects and Classes</li>
 </ul>
+<h4>Module 4 -Working with Data in Python   </h4>
+<h5>Learning Objectives</h5>
+<ul>
+<li>Reading files with open</li>
+<li>Writing files with open</li>
+<li>Loading data with Pandas </li>
+<li>Working with and Saving data with Pandas</li>
+</ul>
