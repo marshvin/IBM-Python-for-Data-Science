@@ -32,3 +32,14 @@ IBM course for python for Data Science
 <li>Loading data with Pandas </li>
 <li>Working with and Saving data with Pandas</li>
 </ul>
+
+<h4>Module 5 - Working with Numpy Arrays & Simple APIs </h4>
+<h5>Learning Objectives</h5>
+<ul>
+<li>Explain the use of the HTTP protocol using the Requests Library method</li>
+<li>Describe how the URL Request Response HTTP protocol works</li>
+<li>Perform basic webscraping using Python </li>
+<li>Work with different file formats using Python</li>
+<li>Explain the difference between APIs and REST APIs </li>
+<li>Summarize how APIs receive and send information</li>
+</ul>
